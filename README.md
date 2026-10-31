@@ -1,4 +1,4 @@
-# Webinar 8 — Master Test Plan & Portfolio Defense
+# Master Test Plan & Portfolio Defense
 
 Final course package.
 
